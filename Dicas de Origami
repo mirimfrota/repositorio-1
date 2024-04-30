@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DICAS DE ORIGAMI</title>
+    <style>
+        .paragrafo-impar {
+            font-size: 16pt;
+            font-family: Arial, sans-serif;
+            color: red;
+        }
+        .paragrafo-par {
+            font-size: 20pt;
+            font-family: Verdana, sans-serif;
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div id="conteudo-site-interno">
+        <p id="paragrafo1" class="paragrafo-impar">Quando você comprar papel colorido, recomendo comprar cartolina ou folha A4.</p>
+        <p id="paragrafo2" class="paragrafo-par">antes de começar a dobrar o papel, pricipalmente se estiver usando papel branco, lave as mãos.</p>
+        <p id="paragrafo3" class="paragrafo-impar">Usar dois tipos de cola: cola branca e superbonder( ou uma colatudo).</p>
+        <p id="paragrafo4" class="paragrafo-par">Quando você criar algo grande, divida o pedaço de folha( 5 centimetros X 3,5 centimetros) para que seja facil moldar o personagem.</p>
+    </div>
+</body>
+</html>
