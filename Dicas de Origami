@@ -19,10 +19,10 @@
 </head>
 <body>
     <div id="conteudo-site-interno">
-        <p id="paragrafo1" class="paragrafo-impar">Quando você comprar papel colorido, recomendo comprar cartolina ou folha A4.</p>
-        <p id="paragrafo2" class="paragrafo-par">antes de começar a dobrar o papel, pricipalmente se estiver usando papel branco, lave as mãos.</p>
-        <p id="paragrafo3" class="paragrafo-impar">Usar dois tipos de cola: cola branca e superbonder( ou uma colatudo).</p>
-        <p id="paragrafo4" class="paragrafo-par">Quando você criar algo grande, divida o pedaço de folha( 5 centimetros X 3,5 centimetros) para que seja facil moldar o personagem.</p>
+        <p id="DICA 1" class="paragrafo-impar">Quando você comprar papel colorido, recomendo comprar cartolina ou folha A4.</p>
+        <p id="DICA 2" class="paragrafo-par">antes de começar a dobrar o papel, pricipalmente se estiver usando papel branco, lave as mãos.</p>
+        <p id="DICA 3" class="paragrafo-impar">Usar dois tipos de cola: cola branca e superbonder( ou uma colatudo).</p>
+        <p id="DICA 4" class="paragrafo-par">Quando você criar algo grande, divida o pedaço de folha( 5 centimetros X 3,5 centimetros) para que seja facil moldar o personagem.</p>
     </div>
 </body>
 </html>
